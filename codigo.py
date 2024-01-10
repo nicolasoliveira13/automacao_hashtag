@@ -66,6 +66,3 @@ for linha in tabela.index:
     #enviar formulário
     pyautogui.press("enter")
     pyautogui.press("home")
-
-#Passo 5: Repetir isso até acabar a base de dados
-
